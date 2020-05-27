@@ -1,4 +1,4 @@
 function multiply(a, b) {
     // TODO return
-return a*b;
+return a * b;
 };
